@@ -39,7 +39,7 @@ export default function Hero() {
         
         <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
           <a
-            href="https://share-rxapq9cajg.raja7.org/share/agent/AS0NV958?data=eyJtIjoyLCJsYW5nIjoiZW4iLCJpZCI6MX0="
+            href="https://share-rxapq9cajg.raja7.org/share/agent/AS0NV958"
             target="_blank"
             rel="noopener noreferrer"
             className="w-full sm:w-auto px-8 py-4 text-lg font-black text-slate-950 bg-gradient-to-r from-amber-400 to-amber-600 rounded-full hover:from-amber-300 hover:to-amber-500 transition-all shadow-[0_0_30px_rgba(217,119,6,0.5)] hover:shadow-[0_0_40px_rgba(217,119,6,0.7)] hover:-translate-y-1 flex items-center justify-center gap-3 uppercase tracking-wider"
@@ -50,7 +50,7 @@ export default function Hero() {
             Download APK
           </a>
           <a
-            href="https://share-rxapq9cajg.raja7.org/share/agent/AS0NV958?data=eyJtIjoyLCJsYW5nIjoiZW4iLCJpZCI6MX0="
+            href="https://share-rxapq9cajg.raja7.org/share/agent/AS0NV958"
             target="_blank"
             rel="noopener noreferrer"
             className="w-full sm:w-auto px-8 py-3.5 text-lg font-medium text-white bg-slate-900 border border-slate-700 rounded-full hover:bg-slate-800 hover:border-amber-500/50 transition-all flex items-center justify-center gap-3"

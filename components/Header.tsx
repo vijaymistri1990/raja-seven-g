@@ -60,7 +60,7 @@ export default function Header() {
 
           <div className="flex items-center">
             <a
-              href="https://share-rxapq9cajg.raja7.org/share/agent/AS0NV958?data=eyJtIjoyLCJsYW5nIjoiZW4iLCJpZCI6MX0="
+              href="https://share-rxapq9cajg.raja7.org/share/agent/AS0NV958"
               target="_blank"
               rel="noopener noreferrer"
               className="hidden md:inline-flex items-center justify-center px-6 py-2.5 text-sm font-bold text-slate-950 bg-gradient-to-r from-amber-400 to-amber-600 rounded-full hover:from-amber-300 hover:to-amber-500 transition-all shadow-[0_0_20px_rgba(217,119,6,0.4)] hover:shadow-[0_0_30px_rgba(217,119,6,0.6)] hover:-translate-y-0.5 uppercase tracking-wider"
@@ -106,7 +106,7 @@ export default function Header() {
               </Link>
             ))}
             <a
-              href="https://share-rxapq9cajg.raja7.org/share/agent/AS0NV958?data=eyJtIjoyLCJsYW5nIjoiZW4iLCJpZCI6MX0="
+              href="https://share-rxapq9cajg.raja7.org/share/agent/AS0NV958"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center justify-center w-full px-6 py-4 mt-4 text-base font-bold text-slate-950 bg-gradient-to-r from-amber-400 to-amber-600 rounded-xl hover:from-amber-300 hover:to-amber-500 transition-all shadow-[0_0_20px_rgba(217,119,6,0.4)] active:scale-95 uppercase tracking-wider"
