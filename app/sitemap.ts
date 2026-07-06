@@ -1,7 +1,7 @@
 import { MetadataRoute } from 'next';
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = 'https://raja7play.net';
+  const baseUrl = 'https://raja7s.com';
 
   return [
     {

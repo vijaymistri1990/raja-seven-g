@@ -7,6 +7,6 @@ export default function robots(): MetadataRoute.Robots {
       allow: '/',
       disallow: ['/api/', '/admin/'],
     },
-    sitemap: 'https://raja7play.net/sitemap.xml',
+    sitemap: 'https://raja7s.com/sitemap.xml',
   };
 }

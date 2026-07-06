@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://raja7play.net'),
+  metadataBase: new URL('https://raja7s.com'),
   title: "Raja7 Game Download | Play Raja7 & Win Real Cash 2026",
   description: "Download the official Raja7 Game APK for Android and start earning real cash today! Join Raja7 Play, claim your massive Raja7 bonus, and win real money daily with the top-rated Raja7 app.",
   keywords: [
@@ -35,7 +35,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Raja7 Game Download | Play Raja7 & Win Real Cash",
     description: "Download the official Raja7 Game APK for Android and start earning real cash today! Join Raja7 Play, claim your massive Raja7 bonus, and win real money daily.",
-    url: "https://raja7play.net",
+    url: "https://raja7s.com",
     siteName: "Raja7 Game",
     images: [
       {
