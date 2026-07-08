@@ -13,10 +13,10 @@ export default function Footer() {
           <div className="md:col-span-12 lg:col-span-5">
             <Link href="/" className="flex items-center gap-2 mb-6 inline-flex">
               <Image 
-                src="/raja7.png" 
+                src="/raja7.jpg" 
                 alt="Raja7 Logo" 
-                width={80} 
-                height={80} 
+                width={100} 
+                height={100} 
                 className="w-20 h-20 rounded-md object-contain shadow-[0_0_15px_rgba(217,119,6,0.5)] bg-black" 
                 unoptimized={true}
               />

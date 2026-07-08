@@ -17,7 +17,7 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   metadataBase: new URL('https://raja7s.com'),
   title: "Raja7 Game Download | Play Raja7 & Win Real Cash 2026",
-  description: "Download the official Raja7 Game APK for Android and start earning real cash today! Join Raja7 Play, claim your massive Raja7 bonus, and win real money daily with the top-rated Raja7 app.",
+  description: "Download the official Raja7 Game APK for Android and start earning real cash today! Claim your massive Raja7 bonus and win real money daily.",
   keywords: [
     "Raja7", "Raja7 APK download", "Raja7 game download", "Raja7 real cash", 
     "play Raja7 earn money", "Raja7 app", "Raja7 2026", "Raja7 login", 
@@ -28,9 +28,9 @@ export const metadata: Metadata = {
     "Raja7 referral code", "Raja7 customer care", "Raja7 online game"
   ],
   icons: {
-    icon: '/raja71.png',
-    shortcut: '/raja71.png',
-    apple: '/raja71.png',
+    icon: '/favicon.jpg',
+    shortcut: '/favicon.jpg',
+    apple: '/favicon.jpg',
   },
   openGraph: {
     title: "Raja7 Game Download | Play Raja7 & Win Real Cash",
@@ -39,7 +39,7 @@ export const metadata: Metadata = {
     siteName: "Raja7 Game",
     images: [
       {
-        url: "/og-image.jpg",
+        url: "/og-image.jpg", 
         width: 1200,
         height: 630,
         alt: "Raja7 Game Preview",
@@ -70,12 +70,12 @@ export default function RootLayout({
     "@graph": [
       {
         "@type": "Organization",
-        "@id": "https://raja7play.net/#organization",
+        "@id": "https://raja7s.com/#organization",
         "name": "Raja7 Game",
-        "url": "https://raja7play.net",
+        "url": "https://raja7s.com",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://raja7play.net/raja7.png"
+          "url": "https://raja7s.com/raja7.jpg"
         },
         "description": "Raja7 is the premium gaming destination for Android users."
       },
