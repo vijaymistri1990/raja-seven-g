@@ -28,9 +28,9 @@ export const metadata: Metadata = {
     "Raja7 referral code", "Raja7 customer care", "Raja7 online game"
   ],
   icons: {
-    icon: '/favicon.jpg',
-    shortcut: '/favicon.jpg',
-    apple: '/favicon.jpg',
+    icon: '/raja7.jpg',
+    shortcut: '/raja7.jpg',
+    apple: '/raja7.jpg',
   },
   openGraph: {
     title: "Raja7 Game Download | Play Raja7 & Win Real Cash",
