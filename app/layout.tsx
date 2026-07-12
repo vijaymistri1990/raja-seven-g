@@ -27,6 +27,9 @@ export const metadata: Metadata = {
     "top real money games", "Raja7 VIP", "Raja7 sign up bonus", "Raja7 withdraw",
     "Raja7 referral code", "Raja7 customer care", "Raja7 online game"
   ],
+  alternates: {
+    canonical: '/',
+  },
   icons: {
     icon: '/raja7.jpg',
     shortcut: '/raja7.jpg',
